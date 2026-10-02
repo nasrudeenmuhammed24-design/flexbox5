@@ -66,6 +66,6 @@ body{
     color: grey;
     font-weight: 1000;
     text-shadow: 1px 1px 1px 1px;
-    width: fit-content;
-    height: fit-content;
+    width: 24px;
+    height: 24px;
 }
